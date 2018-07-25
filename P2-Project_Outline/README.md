@@ -12,8 +12,13 @@ My current employer does not have even the most basic database inventories for e
 The features of my program will allow the store associate to locate a specific glasses frame by the following search criteria, through their choice of either a search option or a list option: Manufacturer, Model, Model Number, Store Availability, Lens Size, Bridge Size, Description, Style, and Frame Style. Each individual item will have at least one picture available for each individual frame. 
 
 Additionally, there will be two ways to access the database. The first way is through a web browser via the traditional MVC model. Additionally, I want to have an independent GUI set up to access the server. The GUI will be specifically for the Database Administrator and all pertinent IS employees for the sole purpose of Creating, Udpdating, Reading and Deleting database features, whereas the Web Browser will be a read only system for the store associates. 
+
 ### Technologies
 Technologies so far will include, Java, Spring, HTML, Various HTML Templates, MySQL, SQLPro.
 
 ### What I'll Have to Learn
 I will have to learn MySQL for the associates, SQLPro for the IS department, and how to combine the two programs to access the same database. I will have to figure out which IDE is best to create both of these programs, as IntelliJ community edition does not allow for the access of sovereign databases on one's own computer. 
+
+### Project Tracker
+For my project tracker, I have chosen to use Trello. Attached is a link: 
+https://trello.com/b/KumgX38v/untitled-board
