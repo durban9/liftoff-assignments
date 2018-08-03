@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/durban9
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+www.linkedin.com/in/douglas-urban
 
 ### Resume
 https://github.com/durban9/liftoff-assignments/blob/master/Douglas%20S.%20Urban%20Developer%20Resume.pdf
