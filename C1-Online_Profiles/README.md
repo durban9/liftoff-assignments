@@ -14,5 +14,4 @@ www.linkedin.com/in/douglas-urban
 
 ### Resume
 https://github.com/durban9/liftoff-assignments/blob/master/Douglas%20S.%20Urban%20Developer%20Resume.pdf
-
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
